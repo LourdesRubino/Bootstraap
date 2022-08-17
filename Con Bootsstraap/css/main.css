@@ -1,0 +1,31 @@
+/*reset*/
+*{
+   margin: 0px;
+   padding: 0px;
+ }
+
+
+
+
+.logo{ 
+   color: rgb(213, 104, 14);
+   font-size: 50px;
+   font-weight: bolder;
+}
+.img1{ 
+   margin-top: 30px;
+   margin-bottom: 30px;
+   
+   
+}
+.img2{
+   margin-top: 30px;
+   margin-bottom: 30px;
+ }
+
+.img3{
+   margin-top: 30px;
+   margin-bottom: 30px;
+ }
+ 
+ 
